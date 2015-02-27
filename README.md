@@ -1,4 +1,8 @@
 HappyNerd
 =========
 
-Flappy Bird Clone in Unity - created for //publish 2014 in Vienna
+Flappy Bird Framework powered Unity - created for //publish 2014 in Vienna
+
+
+Step-by-Step Tutorial (German):
+http://codefest.at/post/2014/08/31/Flappy-Bird-Framework-fur-Unity.aspx
